@@ -1,1 +1,6 @@
-Edit line in exercise 6
+<<<<<<< HEAD
+Edit line in exercise 6 _ without conflict
+=======
+Changing file to push test
+#Editing this file for exercise 6
+>>>>>>> 6cdd02bd6ac4f605df4b53dd5aa93cf2037129f2
