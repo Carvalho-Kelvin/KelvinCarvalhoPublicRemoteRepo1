@@ -1,1 +1,1 @@
-Changing file to push test
+Edit line in exercise 6
